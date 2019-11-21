@@ -1,0 +1,10 @@
+
+header{
+	background-image: url(../images/headerbg.png);
+	width: 100%;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+.header-overlay{
+	background: rgba(0,0,0,0.72);
+}
